@@ -100,11 +100,11 @@ This screen shot is on page load.
 
 This screen shot is showing the various choices, and the user has made some selections.
 
-![iife Sandwich no. 2](./images/iifeSandwich-2.PNG);
+![iife Sandwich no. 2](./images/iifeSandwich-2.PNG)
 
 This screen shot shows that the selected items are written in a separate div, and there is a running total.
 
-![iife Sandwich no. 3](./images/iifeSandwich-3.PNG);
+![iife Sandwich no. 3](./images/iifeSandwich-3.PNG)
 
 ### How do I run this project locally?
 
